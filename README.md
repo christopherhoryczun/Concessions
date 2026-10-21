@@ -11,3 +11,12 @@ It will be build on:
 - Java
 - Python
 
+Things it has:
+- 
+
+Things it will have:
+- Inventory System
+- Live Update ability
+- Adding to sell items
+- Removing to sell items
+- Auto money counting
